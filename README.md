@@ -1,3 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&random=false&width=435&lines=%E2%80%9CBạn+chỉ+thất+bại+khi+bạn+bỏ+cuộc.%E2%80%9D)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cali&pause=1000&width=435&lines=B%E1%BA%A1n+ch%E1%BB%89+th%E1%BA%A5t+b%E1%BA%A1i+khi+b%E1%BA%A1n+b%E1%BB%8F+cu%E1%BB%99c)](https://git.io/typing-svg)
